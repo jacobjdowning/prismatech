@@ -1,0 +1,18 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "item": "minecraft:stone",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "water",
+    "count": 1000,
+    "min": 1000
+  },
+  "result":{
+    "item": "minecraft:dirt",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 20
+}

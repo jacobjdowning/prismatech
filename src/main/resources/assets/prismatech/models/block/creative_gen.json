@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures":{
+    "down":  "minecraft:blocks/iron_block",
+    "up":    "minecraft:blocks/iron_block",
+    "north": "minecraft:blocks/iron_block",
+    "south": "minecraft:blocks/iron_block",
+    "west":  "minecraft:blocks/iron_block",
+    "east":  "minecraft:blocks/piston_inner",
+    "particle": "minecraft:blocks/iron_block"
+  }
+}

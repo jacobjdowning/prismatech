@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=east": { "model":  "prismatech:creative_gen" },
+    "facing=south": { "model": "prismatech:creative_gen", "y": 90 },
+    "facing=west": { "model":  "prismatech:creative_gen", "y": 180 },
+    "facing=north": { "model": "prismatech:creative_gen", "y": 270 },
+    "inventory": [{"model": "prismatech:creative_gen"}]
+  }
+}

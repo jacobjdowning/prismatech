@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "prismatech",
+    "name": "Prismatech",
+    "description": "Harness the deep genetic diversity of the sea",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["JakeCodes"]
+  }
+]

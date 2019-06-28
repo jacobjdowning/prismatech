@@ -1,0 +1,18 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "item": "minecraft:potato",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "sucrose",
+    "count": 1000,
+    "min": 1000
+  },
+  "result":{
+    "fluid": "bio_ooze",
+    "count": 1000
+  },
+  "time": 40,
+  "energy": 5
+}

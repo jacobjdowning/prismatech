@@ -1,0 +1,5 @@
+{
+  "recipes": {
+    "infuser" : "downingjj.prismatech.crafting.infuser.InfuserRecipeFactory"
+  }
+}

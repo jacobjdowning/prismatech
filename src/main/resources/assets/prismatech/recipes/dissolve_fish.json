@@ -1,0 +1,21 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "item": "minecraft:fish",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "solute",
+    "count": 1000,
+    "min": 1000
+  },
+  "result":{
+    "fluid": "solute",
+    "count": 1000,
+    "dna": {
+      "item": "minecraft:fish"
+    }
+  },
+  "time": 40,
+  "energy": 5
+}

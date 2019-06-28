@@ -1,0 +1,18 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "item": "minecraft:porkchop",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "steam",
+    "count": 10,
+    "min": 500
+  },
+  "result":{
+    "item": "minecraft:cooked_porkchop",
+    "count": 1
+  },
+  "time": 40,
+  "energy": 5
+}

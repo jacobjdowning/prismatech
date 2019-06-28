@@ -1,0 +1,18 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "item": "prismatech:lime",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "saline",
+    "count": 1000,
+    "min": 1000
+  },
+  "result":{
+    "fluid": "solute",
+    "count": 1000
+  },
+  "time": 40,
+  "energy": 5
+}

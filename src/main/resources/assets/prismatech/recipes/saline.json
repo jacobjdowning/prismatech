@@ -1,0 +1,19 @@
+{
+  "type": "prismatech:infuser",
+  "solid": {
+    "type": "forge:ore_dict",
+    "ore": "salt",
+    "count": 1
+  },
+  "fluid":{
+    "fluid": "water",
+    "count": 1000,
+    "min": 1000
+  },
+  "result":{
+    "fluid": "saline",
+    "count": 1000
+  },
+  "time": 40,
+  "energy": 5
+}

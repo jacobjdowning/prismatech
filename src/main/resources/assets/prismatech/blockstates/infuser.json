@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "infusing=true": [{"model":  "prismatech:infuser_infusing"}],
+    "infusing=false": [{"model": "prismatech:infuser"}],
+    "inventory": [{"model": "prismatech:infuser"}]
+  }
+}
